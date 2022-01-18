@@ -113,9 +113,7 @@ href="https://github.com/projecthorus/radiosonde_auto_rx/blob/master/auto_rx/tes
                         Virtual Audio/COM Ports</span></a><span><br>
                     </span></li>
                   <li><span>1.4&nbsp;  </span><a href="#SDR_Radio_programs_">SDR
-                      Radio Programs</a><span><a
-                        href="#NMEA_9600_Baud_JN3SL869_V2_Modification">
-                      </a></span> </li>
+                      Radio Programs</a><span></li>
                   <li><span>1.5&nbsp; <a href="#GPS_Setup_">GPS Setup</a></span>
                   </li>
                   <li><span>1.6&nbsp; </span><span><a
@@ -129,14 +127,15 @@ href="https://github.com/projecthorus/radiosonde_auto_rx/blob/master/auto_rx/tes
                       WiFi GPS</a><br>
                   </li>
                   <li>2.0&nbsp; <a
-                      href="http://happysat.nl/Windows_WSL/"
+                      href="https://github.com/happysat/Windows-Subsystem-for-Linux-WSL-and-SDR-in-Windows-10"
                       target="_blank">WSL and SDR</a><br>
                   </li>
+		  <li>2.1&nbsp; <a
+                      href="https://github.com/happysat/Windows-Subsystem-for-Android-WSA-and-SDR"
+                      target="_blank">WSA and SDR</a><br>
+                  </li>
                 </ul>
-              </li>
-            </ul>
           </div>
-          <br>
           <p style="color: rgb(0, 0, 0); font-family: &quot;Times New
             Roman&quot;; font-size: medium; font-style: normal;
             font-variant-ligatures: normal; font-variant-caps: normal;
@@ -151,7 +150,7 @@ href="https://github.com/projecthorus/radiosonde_auto_rx/blob/master/auto_rx/tes
           <br>
           <a href="/RS.zip?raw=true">Download Decoders and Script</a><br>
           <br>
-          <a href="http://happysat.nl/RS/Windows/" target="_blank">Updated
+          <a href="https://github.com/happysat/RS-Binaries/tree/main/Windows" target="_blank">Updated
             compiled RS-Decoders are overhere.</a><br>
           <br>
           <b>Unzip rs.zip and move to C:</b><br>
